@@ -1,0 +1,16 @@
+- faire l'affichage
+
+
+
+- en pygame ou tkinter au choix
+
+- liste croissant / décroissant / aléatoire / donnée par l'utilisateur
+- longueur de la liste
+- délai
+- choix de l'algo
+- bouton run et reset
+- ...
+
+
+- reponsive design
+- la longueur de la liste est limité à un certain nombre d'élément (comprendre comment le gars de la vidéo à fait peut être grâce aux spécifité d'une librairy graphique comme tkinter / swing)
